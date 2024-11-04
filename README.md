@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- welcome to web tech
+- welcome to web Tech
+- welcome to ReactJS is a Javascript Library Frameworks
 
 <!---
 prashantk67/prashantk67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
