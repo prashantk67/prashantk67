@@ -7,6 +7,8 @@
 - ⚡ Fun fact: ...
 - welcome to web Tech
 - welcome to ReactJS is a Javascript Library Frameworks
+- welcome to Javascript
+- printf("Hello React")
 
 <!---
 prashantk67/prashantk67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
